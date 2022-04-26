@@ -17,6 +17,7 @@ body {
   display: flex;
   background-color: var(--gray-color);
   padding: 3rem;
+  padding-top: 5rem;
 }
 li {
   list-style: none;
@@ -26,9 +27,9 @@ hr {
 }
 .container {
   max-width: 55rem;
-  margin: 0 auto;
   height: 100%;
   margin: auto;
+  margin-top: 0;
 }
 .title {
   font-family: "Great Vibes", cursive;
